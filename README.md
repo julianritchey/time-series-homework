@@ -82,7 +82,7 @@ Module 11 Challenge: Forecasting Net Prophet
 ## Forecast the Revenue by Using Time Series Models
 
 ### Code block 33 (line plot)
-- Plot depicts the daily sales for the entire dataset.
+- Plot depicts the daily sales (in USD millions) for the entire dataset.
 
 ### Code block 38 (line plots)
 - First plot depicts the linear daily sales trend for the entire dataset.
@@ -92,14 +92,14 @@ Module 11 Challenge: Forecasting Net Prophet
 **Answer:** Wednesdays.
 
 ### Code block 39 (line plot)
-- Plot depicts the daily sales for the predicted, 90-day timeframe.
+- Plot depicts the daily sales (in USD millions) for the predicted, 90-day timeframe.
 - Lines include:
   - Most likely scenario (yhat).
   - Worst-case scenario (yhat_lower).
   - Best-case scenario (yhat_upper).
 
 ### Task: Produce a sales forecast for the finance group. Give them a number for the expected total sales in the next quarter. Include the best- and worst-case scenarios to help them make better plans.
-**Response:** The expected total sales for next quarter are USD 969 million. A best-case scenario sees next quarter's total sales reach USD 1,051 million, whereas a worst-case scenario sees next quarter's total sales reach USD 887 million.
+**Response:** The expected total sales for next quarter are approximately USD 969 million. A best-case scenario sees next quarter's total sales reach USD 1,051 approximately million, whereas a worst-case scenario sees next quarter's total sales reach USD 887 approximately million.
 
 ## Other information
 - All work can be found in the [forecasting_net_prophet.ipynb](https://github.com/julianritchey/time-series-homework/blob/main/forecasting_net_prophet.ipynb) file.
