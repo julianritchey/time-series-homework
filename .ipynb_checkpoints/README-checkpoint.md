@@ -99,7 +99,7 @@ Module 11 Challenge: Forecasting Net Prophet
   - Best-case scenario (yhat_upper).
 
 ### Task: Produce a sales forecast for the finance group. Give them a number for the expected total sales in the next quarter. Include the best- and worst-case scenarios to help them make better plans.
-**Response:** The expected total sales for next quarter are approximately USD 969 million. A best-case scenario sees next quarter's total sales reach USD 1,051 approximately million, whereas a worst-case scenario sees next quarter's total sales reach USD 887 approximately million.
+**Response:** The expected total sales for next quarter are approximately USD 969 million. A best-case scenario sees next quarter's total sales reach approximately USD 1,051 million, whereas a worst-case scenario sees next quarter's total sales reach approximately USD 887 million.
 
 ## Other information
 - All work can be found in the [forecasting_net_prophet.ipynb](https://github.com/julianritchey/time-series-homework/blob/main/forecasting_net_prophet.ipynb) file.
